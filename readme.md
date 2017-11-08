@@ -1,4 +1,4 @@
-# blog
+# block
 
 Just a super simple express app starter
 
