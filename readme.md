@@ -1,4 +1,4 @@
-# express-starter
+# blog
 
 Just a super simple express app starter
 
